@@ -1,25 +1,6 @@
 Vehicle Market Analysis 🚗📊
 This repository contains a data analysis project focused on exploring trends, patterns, and insights in the vehicle market. The project includes data cleaning, exploratory data analysis (EDA), visualization, and statistical modeling to derive meaningful conclusions about vehicle pricing, features, and market demand.
 
-📌 Table of Contents
-Project Overview
-
-Dataset
-
-Features
-
-Installation
-
-Usage
-
-Technologies Used
-
-Results
-
-Contributing
-
-License
-
 🔍 Project Overview
 This project analyzes vehicle market data to uncover trends such as:
 
@@ -79,19 +60,7 @@ Data Visualization (Matplotlib, Seaborn, Plotly)
 
 Jupyter Notebook for interactive analysis
 
-(Add any other tools/libraries used)
 
-📊 Results
-Key findings from the analysis:
-
-Top 5 Most Expensive Car Brands: [List them]
-
-Impact of Mileage on Price: [Brief insight]
-
-Regional Price Variations: [Summary]
-
-(Include sample visualizations if possible, e.g.,)
-https://images/price_distribution.png (Example: Replace with your actual plots)
 
 🤝 Contributing
 Contributions are welcome! If you'd like to improve this project:
@@ -110,8 +79,8 @@ Open a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🔗 Connect with Me
-GitHub: Talha470083
+GitHub: [Talha470083](https://github.com/Talha470083)
 
-LinkedIn: (Your LinkedIn Profile)
+LinkedIn: www.linkedin.com/in/talha-bhatti-a6577b266
 
-Email: (Your Email)
+Email: talhabhattiak47@gmail.com
